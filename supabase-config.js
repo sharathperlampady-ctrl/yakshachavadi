@@ -1,4 +1,4 @@
-// Supabase Project Settings > API ಯಲ್ಲಿರುವ Project URL ಮತ್ತು anon/public key ಇಲ್ಲಿ ಹಾಕಿ.
-// ಇಲ್ಲಿ service_role key ಅನ್ನು ಎಂದಿಗೂ ಹಾಕಬೇಡಿ.
-window.SUPABASE_URL = 'YOUR_SUPABASE_PROJECT_URL';
-window.SUPABASE_ANON_KEY = 'YOUR_SUPABASE_ANON_PUBLIC_KEY';
+// ಯಕ್ಷ ಚಾವಡಿ — Supabase public browser configuration
+// Publishable key ಮಾತ್ರ ಇಲ್ಲಿ ಇರಬೇಕು. Secret key / service_role key ಹಾಕಬೇಡಿ.
+window.SUPABASE_URL = 'https://wbircahmpbqrjmvhyeys.supabase.co';
+window.SUPABASE_ANON_KEY = 'sb_publishable_x9rKVW-w4dq2cY0VHQc5Ew_d-hOwHS8';
